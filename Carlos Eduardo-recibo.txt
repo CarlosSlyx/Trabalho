@@ -1,0 +1,6 @@
+Farmacia Universitaria
+Nome: Carlos Eduardo
+Idade: 19
+CPF: 273728937
+Itens Comprados:
+1x teste 100mg + teste2 80mg - Valor total: R$ 10.98
